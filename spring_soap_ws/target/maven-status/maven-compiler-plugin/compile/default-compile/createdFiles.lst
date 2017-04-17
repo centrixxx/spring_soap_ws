@@ -1,0 +1,7 @@
+com\tata\spring\ws\proxies\ObjectFactory.class
+com\tata\spring\ws\proxies\EmployeeDetailsStatus.class
+com\tata\spring\ws\EmployeeDetailsEndpoint.class
+com\tata\spring\ws\proxies\EmployeeDetailsService.class
+com\tata\spring\ws\proxies\package-info.class
+com\tata\spring\ws\proxies\EmployeeDetailsRequest.class
+com\tata\spring\ws\proxies\EmployeeDetailsServices.class
